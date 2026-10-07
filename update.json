@@ -21,3 +21,7 @@
   ],
   "colors": ["#0F9B8E", "#2AABEE", "#6A3DE8"],
   "force": false,
+  "force_after": "2026-10-20",
+  "repeat": "every_open",
+  "repeat_hours": 6
+}
