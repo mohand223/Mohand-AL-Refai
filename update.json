@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "title": "تحديث جديد متوفر 🔥",
-  "message": "أضفنا ميزات جديدة وصلحنا مشاكل، حدّث الآن",
+  "version_name": "1.2",
+  "title": "إنستا مهند 1.2",
+  "icon": "🚀",
+  "date": "8 أكتوبر",
+  "size": "95 MB",
+  "badge": "تحديث مهم",
+  "message": "نسخة جديدة فيها ميزات قوية، حدّث الآن 🔥",
+  "changes": [
+    {"type": "new", "text": "تنزيل الستوري بجودة أعلى"},
+    {"type": "new", "text": "ثيم جديد للإعدادات"},
+    {"type": "improve", "text": "تحسين سرعة فتح الرسائل"},
+    {"type": "fix", "text": "إصلاح مشكلة اختفاء الرسائل المحذوفة"}
+  ],
   "url": "https://t.me/mdwhatsapp_mods",
+  "button_text": "تنزيل التحديث",
+  "buttons": [
+    {"text": "قناة التليجرام", "url": "https://t.me/mdwhatsapp_mods"},
+    {"text": "حسابي على إنستغرام", "url": "https://www.instagram.com/m.alrefai_515"}
+  ],
+  "colors": ["#0F9B8E", "#2AABEE", "#6A3DE8"],
   "force": false,
-  "repeat_hours": 6
-}
