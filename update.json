@@ -19,10 +19,11 @@
   "button_text": "تنزيل التحديث",
   "buttons": [
     {"text": "قناة التليجرام", "url": "https://t.me/mdwhatsapp_mods"},
+    {"text": "حسابي على إنستغرام", "url": "https://www.instagram.com/m.alrefai_515"}
   ],
   "colors": ["#0F9B8E", "#2AABEE", "#6A3DE8"],
   "force": false,
   "force_after": "2026-10-20",
   "repeat": "every_open",
   "repeat_hours": 6
-    {"text": "حسابي على إنستغرام", "url": "https://www.instagram.com/m.alrefai_515"}}
+}
