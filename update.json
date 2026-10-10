@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "version_name": "2.0",
   "title": "انستغرام مهند الرفاعي 2.0",
   "icon": "🚀",
@@ -15,15 +15,14 @@
     {"type": "new", "text": "شارة «لا يتابعك»"},
     {"type": "new", "text": "زر تنزيل مباشر على منشورات"}
   ],
-  "url": "https://www.mediafire.com/file/74x1tokylg3qt7c/MDInsta♛_447.0.0.55.81.apk/file",
+  "url": "https://www.mediafire.com/file/p4plao2h7din6jz/MDInsta%25E2%2599%259BV2.apk/file",
   "button_text": "تنزيل التحديث",
   "buttons": [
     {"text": "قناة التليجرام", "url": "https://t.me/mdwhatsapp_mods"},
-    {"text": "حسابي على إنستغرام", "url": "https://www.instagram.com/m.alrefai_515"}
   ],
   "colors": ["#0F9B8E", "#2AABEE", "#6A3DE8"],
   "force": false,
   "force_after": "2026-10-20",
   "repeat": "every_open",
   "repeat_hours": 6
-}
+    {"text": "حسابي على إنستغرام", "url": "https://www.instagram.com/m.alrefai_515"}}
