@@ -1,19 +1,21 @@
 {
-  "version": 1,
-  "version_name": "1.2",
-  "title": "إنستا مهند 1.2",
+  "version": 2,
+  "version_name": "2.0",
+  "title": "انستغرام مهند الرفاعي 2.0",
   "icon": "🚀",
-  "date": "8 أكتوبر",
-  "size": "95 MB",
+  "date": "10 أكتوبر",
+  "size": "136.78 MB",
   "badge": "تحديث مهم",
   "message": "نسخة جديدة فيها ميزات قوية، حدّث الآن 🔥",
   "changes": [
-    {"type": "new", "text": "تنزيل الستوري بجودة أعلى"},
-    {"type": "new", "text": "ثيم جديد للإعدادات"},
-    {"type": "improve", "text": "تحسين سرعة فتح الرسائل"},
-    {"type": "fix", "text": "إصلاح مشكلة اختفاء الرسائل المحذوفة"}
-  ],
-  "url": "https://t.me/mdwhatsapp_mods",
+    {"type": "new", "text": "قفل التركيز"},
+    {"type": "new", "text": "قسم القصص + تعليم القصة كمشاهَدة"},
+    {"type": "improve", "text": "خزنة الإنستانتس"},
+    {"type": "fix", "text": "قفل صندوق الرسائل"}
+ {"type": "new", "text": "شارة «لا يتابعك»"},
+{"type": "new", "text": "زر تنزيل مباشر على منشورات"},
+ ],
+  "url": "https://www.mediafire.com/file/74x1tokylg3qt7c/MDInsta♛_447.0.0.55.81.apk/file",
   "button_text": "تنزيل التحديث",
   "buttons": [
     {"text": "قناة التليجرام", "url": "https://t.me/mdwhatsapp_mods"},
